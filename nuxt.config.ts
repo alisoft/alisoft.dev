@@ -5,7 +5,7 @@ import { withDocus } from '@docus/app'
 export default withDocus({
   rootDir: __dirname,
   head: {
-    titleTemplate: 'Nuxt - %s',
+    titleTemplate: 'AliSoft - %s',
     link: [
       {
         rel: 'stylesheet',
@@ -25,22 +25,22 @@ export default withDocus({
       {
         hid: 'og:image',
         property: 'og:image',
-        content: 'https://nuxtjs.org/preview.png'
+        content: 'https://alisoft.dev/preview.png'
       },
       {
         hid: 'og:image:secure_url',
         property: 'og:image:secure_url',
-        content: 'https://nuxtjs.org/preview.png'
+        content: 'https://alisoft.dev/preview.png'
       },
       {
         hid: 'og:image:alt',
         property: 'og:image:alt',
-        content: 'Nuxt'
+        content: 'AliSoft'
       },
       {
         hid: 'twitter:image',
         name: 'twitter:image',
-        content: 'https://nuxtjs.org/preview.png'
+        content: 'https://alisoft.dev/preview.png'
       }
     ],
     bodyAttrs: {
@@ -160,16 +160,10 @@ export default withDocus({
         name: 'English'
       },
       {
-        code: 'fr',
-        iso: 'fr-FR',
-        file: 'fr-FR.js',
-        name: 'Français'
-      },
-      {
-        code: 'ja',
-        iso: 'ja-JP',
-        file: 'ja-JP.js',
-        name: '日本語'
+        code: 'zh',
+        iso: 'zh-CN',
+        file: 'zh-CN.js',
+        name: '中文'
       }
     ]
   },

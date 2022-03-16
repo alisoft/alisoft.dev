@@ -1,7 +1,7 @@
 export default {
-  title: 'Nuxt',
+  title: 'AliSoft',
   description: '',
-  url: 'https://nuxtjs.org',
+  url: 'https://alisoft.dev',
   template: 'docs',
   credits: true,
   socialImage: false,
@@ -16,9 +16,9 @@ export default {
     banner: true
   },
   github: {
-    repo: 'nuxt/nuxtjs.org',
-    branch: 'main',
-    releases: 'nuxt/nuxt.js'
+    repo: 'alisoft/alisoft.dev',
+    branch: 'master',
+    releases: 'alisoft/alisoft.dev'
   },
   theme: {
     header: {
