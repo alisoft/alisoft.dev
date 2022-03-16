@@ -1,4 +1,11 @@
-/*! @docsearch/js 1.0.0-alpha.28 (UNRELEASED 0a58769) | MIT License | © Algolia, Inc. and contributors | https://github.com/francoischalifour/autocomplete.js */
+/*!
+ * The buffer module from node.js, for the browser.
+ *
+ * @author   Feross Aboukhadijeh <http://feross.org>
+ * @license  MIT
+ */
+
+/*! ieee754. BSD-3-Clause License. Feross Aboukhadijeh <https://feross.org/opensource> */
 
 
 /*!
@@ -72,14 +79,7 @@ PERFORMANCE OF THIS SOFTWARE.
 //! moment.js locale configuration
 
 
-/*!
- * The buffer module from node.js, for the browser.
- *
- * @author   Feross Aboukhadijeh <http://feross.org>
- * @license  MIT
- */
-
-/*! ieee754. BSD-3-Clause License. Feross Aboukhadijeh <https://feross.org/opensource> */
+/*! @docsearch/js 1.0.0-alpha.28 (UNRELEASED 0a58769) | MIT License | © Algolia, Inc. and contributors | https://github.com/francoischalifour/autocomplete.js */
 
 
 /*!
