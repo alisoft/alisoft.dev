@@ -3,8 +3,9 @@ import en from '~docus-i18n/en-US'
 export default {
   ...en,
   banner: {
+    title: 'Nuxt 3',
     here: 'v3.nuxtjs.org',
-    format: '{nuxt} beta is out! Discover more about it on {here}'
+    format: '{title} beta is out! Discover more about it on {here}'
   },
   cookies: {
     message: 'We use Cookies for user analysis and on-page improvements!',

@@ -10,8 +10,8 @@
       path="banner.format"
       class="text-sky-darkest group-hover:text-black sm:top-1.5 w-full pl-4 sm:pl-0 sm:text-center text-sm"
     >
-      <template #nuxt>
-        <b>Nuxt 3</b>
+      <template #title>
+        <b>{{ $t('banner.title') }}</b>
       </template>
       <template #here>
         <b>{{ $t('banner.here') }}</b>
