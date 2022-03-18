@@ -1,4 +1,5 @@
 # AliSoft
+> This repository is a fork of [nuxt/nuxtjs.org](https://github.com/nuxt/nuxtjs.org), thank to [Nuxt](nuxtjs.org).
 
 ## Development
 
